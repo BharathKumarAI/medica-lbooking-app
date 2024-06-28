@@ -124,7 +124,7 @@ class ArticleScreen extends StatelessWidget {
             separatorBuilder: (context, index) {
               return SizedBox(
                 width: 17.h,
-              );
+              ); 
             },
             itemCount: 2,
             itemBuilder: (context, index) {
